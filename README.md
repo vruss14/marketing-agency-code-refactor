@@ -30,8 +30,6 @@ Please find a screenshot of the deployed application below:
 
 Source code belongs to the Michigan State University Coding Bootcamp repository on GitLab, which requires authorization to view. For more information about the MSU Coding Bootcamp, please visit: https://bootcamp.msu.edu/
 
-## License
-
 
 
 
